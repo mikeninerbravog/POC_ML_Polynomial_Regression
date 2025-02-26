@@ -18,8 +18,8 @@ This repository demonstrates how **Polynomial Regression** improves predictions 
 
 ### Step 1: Open the Notebooks in Colab
 Click the links below to open the examples directly in **Google Colab**:
-- [Predicting Plant Growth](https://colab.research.google.com/github/your-repo/plant_growth_prediction.ipynb)
-- [Predicting a Car’s Speed Over Time](https://colab.research.google.com/github/your-repo/car_speed_prediction.ipynb)
+- [Predicting Plant Growth](https://colab.research.google.com/github/mikeninerbravog/POC_ML_Polynomial_Regression/blob/master/POC_ML_PolynomialRegression.ipynb)
+- [Predicting a Car’s Speed Over Time](https://colab.research.google.com/github/mikeninerbravog/POC_ML_Polynomial_Regression/blob/master/POC_ML_PolynomialRegression.ipynb)
 
 ### Step 2: Install Dependencies (if needed)
 Google Colab usually has all required libraries pre-installed. If needed, run:
